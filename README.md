@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vinicius-Caua/Vinicius-Caua/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vinicius-Caua/Vinicius-Caua/Vinicius-Caua/snake.svg" alt="Snake animation" />
 
 ###
 
