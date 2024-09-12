@@ -21,6 +21,14 @@
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Vinicius-Caua&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
