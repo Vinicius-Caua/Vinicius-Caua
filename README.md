@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Vinicius. Fell free to see my profile!!! 😁</h1>
+<h1 align="center">Hi 👋! My name is Vinicius. Feel free to see my profile!!! 😁</h1>
 
 ###
 
