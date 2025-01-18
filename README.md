@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🧑‍💻Undergraduate Analyst and Developer System student.<br>🍵I am interested about programming Back-End.<br>⌚I am looking for experience.</h3>
+<h3 align="center">🧑‍💻Undergraduate Analyst and Developer System student.<br>🍵I am interested about programming Full-stack.<br>⌚I am looking for experience.</h3>
 
 ###
 
